@@ -1,0 +1,7 @@
+bin
+.gitattributes
+test.js
+*.jpg
+node_modules
+*.bak
+yarn.lock
