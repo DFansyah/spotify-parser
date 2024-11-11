@@ -16,6 +16,7 @@
     "spotify-urls"
   ],
   "dependencies": {
+    "readline": "1.3.0",
     "himalaya": "~1.1.0",
     "spotify-uri": "~4.1.0"
   },
